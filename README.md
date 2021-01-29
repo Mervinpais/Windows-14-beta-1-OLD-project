@@ -4,4 +4,4 @@ Hi there, My name is Mervinpais. Remember to download scratch desktop to open th
 Info about this project:   
 ----============----              
 Windows 14 VERSION: 1.0.2                    
-Windows 14 is an OS made by Mervinpais(Me) for the sole purpose of entertainment, we arent 
+Windows 14 is an OS made by Mervinpais(Me) for the sole purpose of entertainment
